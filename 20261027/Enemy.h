@@ -6,5 +6,7 @@ private:
 public:
 	Enemy(int hp);
 	void ShowHp();
+	void Damage(int damage);
+	int GetHp();
 };
 
