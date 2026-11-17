@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\ConfigTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|solutionrelative:ConfigTask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF98204D-4706-46A8-9837-7126E35A3B97}|20261117.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1583,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T05:26:22.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T05:26:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T05:25:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T05:25:01.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-17T05:24:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigTask.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\ConfigTask.h",
+              "RelativeDocumentMoniker": "ConfigTask.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\TuesDayRepository\\20261117\\ConfigTask.h",
+              "RelativeToolTip": "ConfigTask.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-17T05:23:57.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
